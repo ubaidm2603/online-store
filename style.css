@@ -24,3 +24,46 @@ html {
     padding: 0;
     margin: 0
 }
+
+.img {
+background-image: url(img/watch.jfif);
+background-size: cover;
+margin:100px;
+padding:200px 100px;
+background-position: centre;
+}
+
+.img2{
+    background-image: url(../img/cell.jfif);
+    background-size: cover;
+    margin:100px;
+    padding:200px 100px;
+    background-position: centre;
+
+
+
+}
+
+
+
+
+
+.nob {
+
+    font-size: 25px;
+    font-display: bold;
+    font-weight: bold
+}
+.butt {
+    background-color: aqua
+}
+
+.bob {
+
+color: rgb(30, 109, 20);
+}
+.hob {
+background-color: aqua
+
+}
+
